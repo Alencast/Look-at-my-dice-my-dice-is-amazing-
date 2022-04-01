@@ -1,0 +1,54 @@
+
+
+
+.number1 {
+  border:solid 1px;
+    width:100px;
+    height:100px;
+    margin:auto;
+    margin-top:300px;
+    box-sizing: border-box;
+    
+
+    
+   
+   
+   
+}
+.bola{ 
+
+  position:relative;
+
+  border:1px solid;
+  border-radius:50%;
+  height:20px;
+  width:20px;
+  background-color:black;
+
+}
+
+
+
+
+
+.bola {
+
+  margin:auto;
+  top:40%
+
+ 
+
+
+
+}
+
+
+
+#bot{
+ position:absolute;
+  height:40px;
+  width:100px;
+  left:47.4%;
+  margin-top:20px;
+  text-align: center;
+}
